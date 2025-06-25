@@ -1,13 +1,3 @@
-'''             
-                 KELOMPOK 4
-1. Kanha Mahatma Kharisma   (21305141036)
-2. Luthvi Indriyani         (21305141043)
-3. Artanto Kurniawan        (21305141049)
-4. Putri Kamilia            (21305141055)
-5. Febriana Puspita Ningrum (21305144008)
-6. Elsa Aiziyah             (21305144025)
-'''
-
 from random import randint
 lanjut = True
 while lanjut:
